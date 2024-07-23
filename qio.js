@@ -887,11 +887,11 @@ if (!m.key.fromMe) return
 
 async function loading () {
 var gen2 = [
-"𝐍𝐨",
-"𝐂𝐨𝐮𝐧𝐭𝐞𝐫",
-"𝐀𝐥𝐰𝐚𝐲𝐬𝐚𝐪𝐢𝐨𝐨 𝐍𝐨 𝐂𝐨𝐮𝐧𝐭𝐞𝐫"
+"APINSTORE.ID",
+"APIN VIP V7",
+"Alfin Faridh Taufiqiy"
 ]
-let { key } = await qio.sendMessage(m.chat, {text: '𝐀𝐥𝐰𝐚𝐲𝐬𝐚𝐪𝐢𝐨𝐨'})
+let { key } = await qio.sendMessage(m.chat, {text: 'Alfin Faridh Taufiqiy'})
 
 const pickRandom = (arr) => {
 return arr[Math.floor(Math.random() * arr.length)]
@@ -1832,7 +1832,7 @@ let kontollurus = {
 image: bangke,
 caption: njing,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝐀𝐥𝐰𝐚𝐲𝐬𝐚𝐪𝐢𝐨𝐨 𝐍𝐨 𝐂𝐨𝐮𝐧𝐭𝐞𝐫',
+title: '⟠ Alfin Faridh Taufiqiy',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -3834,7 +3834,7 @@ let namaown = `Owner Cakep`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ Alwaysaqio Robot ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ Alwaysaqio Robot ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ Alfin Faridh Taufiqiy ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ Alfin Faridh Taufiqiy ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 qio.relayMessage(m.chat, contact.message, { messageId: contact.key.id })

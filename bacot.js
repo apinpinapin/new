@@ -77,13 +77,13 @@ const Alwaysaqioo = AlwaysaqiooConnect({
 })
 
     if (usePairingCode && !Alwaysaqioo.authState.creds.registered) {
-    say(`APIN VIP V7\n`, {
+    say(`APIN VIP V7`, {
         font: 'block',
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
 
-say(`SC INI BUATAN APIN , DI LARANG RECODE/RENAME SESUKA HATI`, {
+say(`SC INI BUATAN 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 , DI LARANG RECODE/RENAME SESUKA HATI`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
@@ -233,14 +233,14 @@ Alwaysaqioo.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`SC INI BUATAN APIN , JANGAN RENAME/RECODE SESUKA HATI`, {
+    say(`SC INI BUATAN ALFIN FARIDH TAUFIQIY`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-Alwaysaqioo.sendMessage(`6281231948641@s.whatsapp.net`, { text: `ASSALAMUALAIKUM MAS APIN, IZIN MENGGUNAKAN SCRIPTNYA DENGAN BIJAK, TERIMAKASIH`})
+Alwaysaqioo.sendMessage(`6281231948641@s.whatsapp.net`, { text: `ASSALAMUALAIKUM MAS APIN, IJIN PAKAI SCRIPTNYA, TERIMAKASIH`})
             }
 
         } catch (err) {
@@ -659,7 +659,7 @@ Alwaysaqioo.ev.on('messages.upsert', async chatUpdate => {
             return msg?.message
         }
         return {
-            conversation: "Hi, I'm Alwaysaqioo Botz"
+            conversation: "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈"
         }
     }
     //respon polling

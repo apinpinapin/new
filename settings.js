@@ -10,10 +10,10 @@ global.prefa = ['','!','.',',','🐤','🗿']
                 //SETTINGS OWN//
 global.owner = ['6281231948641']
 global.ownMain = '6281231948641'
-global.NamaOwner = 'Alfin Faridh Taufiqiy'
-global.namabot = 'Alfin Faridh Taufiqiy'
-global.author = 'Alfin Faridh Taufiqiy'
-global.packname = 'Alfin Faridh Taufiqiy'
+global.NamaOwner = '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈'
+global.namabot = 'APIN VIP V7'
+global.author = '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈'
+global.packname = '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈'
                        //-//
 
                  //SETTINGS PANEL
@@ -21851,7 +21851,7 @@ global.connect = true
 global.yt = 'https://www.instagram.com/coreinpin/'
 global.country = `Indonesia`
 global.system = {
-gmail: ``,
+gmail: `selenapro2000@gmail.com`,
 }
 global.autOwn = 'req(62-8S57547ms11).287p'
 let file = require.resolve(__filename)

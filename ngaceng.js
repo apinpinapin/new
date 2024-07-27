@@ -7,7 +7,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '120363313255786174@newsletter',
-"newsletterName": 'ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄',
+"newsletterName": '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈',
 "serverMessageId": 1
 },
 },
@@ -20,13 +20,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄༻"
+"text": "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈༻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"Alfin Faridh Taufiqiy\",\"id\":\".killtod\"}"
+"buttonParamsJson": "{\"display_text\":\"𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈\n𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈\",\"id\":\".killtod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -50,7 +50,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '120363313255786174@newsletter',
-"newsletterName": 'ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄',
+"newsletterName": '𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈',
 "serverMessageId": 1
 },
 },
@@ -63,13 +63,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "ঔৣ⃕᭝Alfin Faridh Taufiqiy𝐳᭄༻"
+"text": "𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈༻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"Alfin Faridh Taufiqiy\",\"id\":\".killtod\"}"
+"buttonParamsJson": "{\"display_text\":\"𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈\n𝙰𝙻𝙵𝙸𝙽 𝙵𝙰𝚁𝙸𝙳𝙷 𝚃𝙰𝚄𝙵𝙸𝚀𝙸𝚈\",\"id\":\".killtod\"}"
 }
 ],
 "messageParamsJson": ""

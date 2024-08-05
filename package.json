@@ -5,7 +5,7 @@
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "start": "node bacot.js"
+        "start": "node qio.js"
     },
     "keywords": [
         "whiskeysockets",
